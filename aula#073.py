@@ -1,0 +1,12 @@
+times = ('são paulo','flamengo','gremio','internacional','atletico','palmeiras','corinthians','cruzeiro','fluminence','america-mg','botafogo','sport-recife','vasco da gama','ec vitoria','bahia','chapecoense','santos','atletico-pr','ceara','parana')
+
+print('-=-'*15)
+print(times)
+print('os 5 primeiros sao',end=' ')
+print(times[0:5])
+print('os 4 utimos sao',end=' ')
+print(times[16:])
+print('-=-'*15)
+print(sorted(times))
+print('-=-'*15)
+print(f"o chapeco esta na posicao {times.index('chapecoense')}")
