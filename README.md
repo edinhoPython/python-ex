@@ -1,3 +1,3 @@
 # exercícios em Python
 
-Exercícios feitos na 
+Exercícios feitos na linguagem python, 
